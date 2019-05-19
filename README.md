@@ -1,3 +1,3 @@
 # hello-world
-This is an exercise dated 20190529
-I'm a new data science student
+It's just an introductory exercise 20190529
+I'm a new GitHub user
